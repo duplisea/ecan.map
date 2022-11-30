@@ -1,3 +1,8 @@
+Get it on gitlab
+
+https://gitlab.com/duplisea/ecan.map
+
+
 # What it does
 
 This is essentially a wrapper package to PBSmapping with functions that
